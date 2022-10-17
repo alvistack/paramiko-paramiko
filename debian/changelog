@@ -1,0 +1,5 @@
+python-paramiko (100:2.11.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/paramiko/paramiko/releases/tag/2.11.0
+
+ -- Wong Hoi Sing Edison <hswong3i@gmail.com>  Tue, 17 May 2022 11:48:19 +0800
