@@ -1,0 +1,4 @@
+python-paramiko source: file-without-copyright-information
+python-paramiko source: no-debian-changes
+python-paramiko source: source-contains-prebuilt-windows-binary
+python-paramiko source: source-package-encodes-python-version
