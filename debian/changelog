@@ -1,0 +1,5 @@
+python-paramiko (100:3.5.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/paramiko/paramiko/releases/tag/3.5.0
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Tue, 17 Sep 2024 11:15:31 +0800
