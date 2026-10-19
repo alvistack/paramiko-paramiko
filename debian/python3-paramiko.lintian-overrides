@@ -1,0 +1,4 @@
+python3-paramiko: copyright-without-copyright-notice
+python3-paramiko: initial-upload-closes-no-bugs
+python3-paramiko: no-manual-page
+python3-paramiko: zero-byte-file-in-doc-directory
